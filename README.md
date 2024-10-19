@@ -106,6 +106,7 @@ No arquivo `package.json`, certifique-se de incluir as versões adequadas das de
   }
 }
 
+```
 ## Melhorias Futuras: ##
 
 Implementar persistência de dados para que o estoque seja salvo entre reinicializações do aplicativo, utilizando AsyncStorage ou uma base de dados como Firebase.
